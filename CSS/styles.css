@@ -1,0 +1,74 @@
+body {
+  margin:0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 20px auto 10px auto;
+  font-size: 7rem;
+  font-family: 'Amatic SC', cursive;
+  color: #0f4c75;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 1.4rem;
+  color: #effffb;
+  font-weight: normal;
+  text-align: center;
+}
+
+.top {
+  background-color: #effffb;
+  position: relative;
+  padding-top: 180px;
+}
+.middle-container {
+  background-color: #84a9ac;
+}
+.myself-pic {
+  margin-top: 30px;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+  line-height: 2;
+}
+.Teacher {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.Radfahrer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 30px;
+
+}
+
+
+.bottom-container {
+
+}
+
+.W1 {
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+
+.W2 {
+  position: absolute;
+  left: 300px;
+}
+.Bike {
+  position: absolute;
+  right: 280px;
+  bottom:0px;
+}
